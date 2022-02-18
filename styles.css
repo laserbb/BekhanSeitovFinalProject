@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+}
+
+nav {
+  font-family: "Bebas Neue", cursive;
+}
+
+h1 {
+  font-family: "Anton", sans-serif;
+  font-size: 36px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+h2 {
+  padding-bottom: 2rem;
+}
+
+h3 {
+  padding-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
+
+section {
+  text-align: center;
+  color: #363636;
+}
+
+hr {
+  border: 1px solid lightgreen;
+  margin-bottom: 25px;
+  width: 80%;
+}
+
+span {
+  color: white;
+}
+
+.container-fluid {
+  width: 100%;
+}
+
+.carousel-inner img {
+  width: 100%;
+}
+
+.row {
+  padding-top: 2rem;
+}
+
+.icon {
+  margin-right: 1rem;
+  color: gray;
+}
+
+.contact {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#margin {
+  margin-left: 5rem;
+}
+
+#first {
+  background-color: #E3FDFD;
+}
+
+#second {
+  background-color: #CBF1F5;
+}
+
+#third {
+  background-color: #A6E3E9;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#fourth {
+  background-color: #71C9CE;
+}
+
+#fifth {
+  background-color: black;
+  color: #abb8c3;
+}
+
+#BigLogo {
+  width: 25%;
+}
+
+#req {
+  font-size: 10rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+#demo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60%;
+  padding-top: 2rem;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
